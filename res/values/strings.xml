@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Explorer</string>
+    <string name="main_activity_name">Explorateur de fichiers</string>
+    
+    <string name="directory_open_activity_not_found">Aucune application disponible pour lire le fichier \"%s\"</string>
+    <string name="directory_read_error_dir">Impossible de lire le dossier \"%s\"</string>
+    <string name="directory_read_error_file">Impossible de lire le fichier \"%s\"</string>
+    
+    <string name="exit_info">Appuyer à nouveau sur retour pour quitter</string>
+    
+    <string name="action_refresh">Actualiser</string>
+    <string name="action_listview">Vue par liste</string>
+    <string name="action_gridview">Vue par icônes</string>
+
+</resources>
